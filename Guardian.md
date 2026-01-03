@@ -279,4 +279,5 @@ bash -p
 
 ---
 
-## Final Not
+## Final Notes
+This machine heavily rewards source review, trust-boundary abuse, and chained web exploitation. Every escalation was logic-based rather than brute-force driven.
